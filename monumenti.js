@@ -1,0 +1,3 @@
+function aggiungiMonumentoArray(monumento) {
+//calamai
+}
